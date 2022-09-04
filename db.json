@@ -36,6 +36,18 @@
       "year": "2009",
       "photo": "https://picsum.photos/400/364",
       "id": 8
+    },
+    {
+      "artist": "dfsfds",
+      "year": "1",
+      "photo": "https://picsum.photos/400/339",
+      "id": 9
+    },
+    {
+      "artist": "gfdgfdhgfh",
+      "year": "145545",
+      "photo": "https://picsum.photos/400/351",
+      "id": 10
     }
   ]
 }
