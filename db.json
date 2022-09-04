@@ -20,12 +20,6 @@
       "id": 4
     },
     {
-      "artist": "Misan Harriman",
-      "year": "1999",
-      "photo": "https://picsum.photos/400/338",
-      "id": 5
-    },
-    {
       "artist": "Takeshi Nagano",
       "year": "2017",
       "photo": "https://picsum.photos/400/499",
@@ -38,16 +32,10 @@
       "id": 7
     },
     {
-      "artist": "Jidhun",
+      "artist": "Jidhunjk",
       "year": "2009",
       "photo": "https://picsum.photos/400/364",
       "id": 8
-    },
-    {
-      "artist": "Martin Grange",
-      "year": "2021",
-      "photo": "https://picsum.photos/400/470",
-      "id": 9
     }
   ]
 }

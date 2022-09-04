@@ -30,7 +30,7 @@ const PicCard = ({ pic }) => {
                 defaultValue={pic.artist}
                 ref={artistInput}
                 autoFocus
-              ></input>
+                />
               <button onClick={() => handleEdit()}>Valider</button>
             </div>
           ) : (
